@@ -1,40 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Notes from FieldSeq</title>
+    <description>Explorations, diaries and musings on the exciting new field of real-time portable in-field sequencing, for microbiology, ecology, genomics, evolution .. and more!
 </description>
-    <link>http://example.com/</link>
-    <atom:link href="http://example.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Jan 2017 14:09:49 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Jan 2017 14:09:49 +0000</lastBuildDate>
+    <link>http://notesfromfieldseq.github.io/</link>
+    <atom:link href="http://notesfromfieldseq.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 12 Jan 2017 23:36:17 +0000</pubDate>
+    <lastBuildDate>Thu, 12 Jan 2017 23:36:17 +0000</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Seafood soup!</title>
+        <description>&lt;p&gt;We wanted a simple mock community to serve as a positive control for our
+future experiments.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;We decided to mix together three examples of tasty seafood, purchased
+from a local fishmonger in Leith.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;Although this was mainly an exercise in finding what we knew we had
+already, this experiment could have potentially useful applications,
+for example determining between different species of fish.&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;methods&quot;&gt;Methods&lt;/h2&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We took a single mussel, an oyster and a scallop. The species designations
+were not known and we forgot to ask if - for example - the oyster was
+a native or a Pacific oyster.&lt;/p&gt;
+
+&lt;p&gt;We also took several critters that we identified by eye from the shoreline.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-protocol&quot;&gt;Basic protocol&lt;/h2&gt;
 
 </description>
         <pubDate>Thu, 12 Jan 2017 14:03:54 +0000</pubDate>
-        <link>http://example.com/jekyll/update/2017/01/12/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://example.com/jekyll/update/2017/01/12/welcome-to-jekyll.html</guid>
+        <link>http://notesfromfieldseq.github.io/leithseq/2017/01/12/seafood-soup.html</link>
+        <guid isPermaLink="true">http://notesfromfieldseq.github.io/leithseq/2017/01/12/seafood-soup.html</guid>
         
         
-        <category>jekyll</category>
+        <category>leithseq</category>
         
-        <category>update</category>
+      </item>
+    
+      <item>
+        <title>Timed sequencing experiment</title>
+        <description>&lt;h1 id=&quot;timed-sequencing-experiment&quot;&gt;Timed sequencing experiment&lt;/h1&gt;
+
+&lt;p&gt;Flowcell 1. (Andrew)&lt;/p&gt;
+
+&lt;p&gt;Loading 1: Millport_BM1_MYT1 (Ballot Martin bay 1, mussel 1)
+Loading 2: Lambda
+Wash
+Loading 3: Millport_WB1_MYTW1 (White Bay 1, mussel water 1)&lt;/p&gt;
+
+&lt;p&gt;Flowcell 2. (nick&lt;/p&gt;
+
+&lt;p&gt;Loading 1: Millport_BM2_MYT2 (Ballot Martin bay 2, mussel 2)
+Loading 2: Lambda
+Wash
+Loading 3: Millport_WB2_MYTW (White Bay 2, mussel water 2)&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 12 Jan 2017 14:03:54 +0000</pubDate>
+        <link>http://notesfromfieldseq.github.io/leithseq/2017/01/12/eDNA-timed-sequencing-experiment.html</link>
+        <guid isPermaLink="true">http://notesfromfieldseq.github.io/leithseq/2017/01/12/eDNA-timed-sequencing-experiment.html</guid>
+        
+        
+        <category>leithseq</category>
         
       </item>
     

@@ -1,0 +1,24 @@
+- id: terralyzer
+  name: TerraLyzer
+  manufacturer: Zymo Research
+  url: https://www.zymoresearch.com/devices-instruments/cell-disruptors/terralyzer
+  description: The TerraLyzer is a modified handheld electrical hammer drill that serves as a portable bead beating instrument.
+  image: terralyzer.jpg
+  price: $1000
+- id: minipcr
+  name: miniPCR mini8 Thermal Cycler
+  manufacturer: miniPCR
+  url: http://www.minipcr.com/
+  description: The miniPCR is a battery-powered, laptop control miniature thermocycler for up to 8 samples at a time.
+  image: minipcr.png
+  price: $599
+- id: nanopore
+  name: Oxford Nanopore MinION
+- id: heatblock
+- id: centrifuge
+- id: dneasy
+- id: xpedition
+- id: pliers
+- id: filters
+- id: sieve
+
