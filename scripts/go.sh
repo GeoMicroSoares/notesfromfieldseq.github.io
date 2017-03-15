@@ -4,8 +4,8 @@ db=$1
 dir=$2
 sampletag=$3
 
-nanopolish extract $db > $sampletag.fasta
-bwa mem -x ont2d -t 8 /metabarcoding/notesfromfieldseq.github.io/db/$db.txt.fasta $sampletag.fasta | samtools view -bS - | samtools sort - -o $sampletag.sorted.bam
+nanopolish extract $dir > $sampletag.fasta
+bwa mem -x ont2d -t 8 /metabarcoding/notesfromfieldseq.github.io/db/"$db".fasta $sampletag.fasta | samtools view -bS - | samtools sort - -o $sampletag.sorted.bam
 
 # make this an outdirectory thing
 mkdir -p clusters

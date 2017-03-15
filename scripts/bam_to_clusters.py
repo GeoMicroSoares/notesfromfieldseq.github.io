@@ -8,7 +8,7 @@ def write_reference(align):
 	fh.close()
 
 def checkalign(alignment, args):
-	if alignment.unmapped:
+	if alignment.is_unmapped:
 		return 0
 
 	if args.min_length:
